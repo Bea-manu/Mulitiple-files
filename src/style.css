@@ -5,3 +5,10 @@ h1{
     text-align: center;
     margin: auto;
 }
+.nav-links :hover{
+    cursor: pointer;
+}
+.nav-links{
+    text-align: center;
+    color: green;
+}
